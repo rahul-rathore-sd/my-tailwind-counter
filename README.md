@@ -25,13 +25,13 @@ git clone https://github.com/your-username/your-repo-name.git
 Go Inside the Project Folder
 cd your-repo-name
 
-3️⃣ Install Dependencies
+### 3️⃣ Install Dependencies
 npm install
 
 
 This will create the node_modules folder.
 
-Run the Development Server
+### 4️⃣ Run the Development Server
 npm run dev
 
 
